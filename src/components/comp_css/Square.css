@@ -1,0 +1,13 @@
+.sqrBtn {
+    background-color: #fff;
+    width: 100px;
+    height: 100px;
+    color: #293241;
+    font-size: 40px;
+    padding: 1rem;
+    border: 1px solid #293241;
+}
+
+.sqrBtn:hover {
+  border-color: #98C1D9;
+}

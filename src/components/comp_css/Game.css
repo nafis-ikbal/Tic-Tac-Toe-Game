@@ -1,0 +1,38 @@
+.game {
+    display: flex;
+}
+
+.column {
+    /* flex: 50%; */
+    padding: 2rem;
+}
+
+.game-history {
+    height: 600px;
+    width: 350px;
+    background-color: #3D5A80;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 4rem;
+    margin-left: 5rem;
+}
+ol.yes {
+    list-style-type: none;
+    padding: 0;
+    /* display: flex; */
+    /* align-items: center; */
+    /* justify-content: center; */
+}
+
+.liBtn {
+    color: #293241;
+    height: 2.7rem;
+    width: 250px;
+    margin: 3px;
+    font-size: 18px;
+    background-color: #98C1D9;
+    border-top-left-radius: 1.5rem;
+    border-bottom-right-radius: 1.5rem;
+}

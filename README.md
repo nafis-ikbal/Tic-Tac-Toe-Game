@@ -13,5 +13,5 @@ A simple Tic-Tac-Toe game built with React and Vite.
 
 ### Instructions
 
-For better understand this project, follow the official [React documentation](https://react.dev/learn/tutorial-tic-tac-toe) for best practices.
+For better understanding of this project, follow the official <a href="https://react.dev/learn/tutorial-tic-tac-toe" target="_blank" rel="noopener noreferrer">React documentation</a> for best practices.
 It helps you to clear fundamental React concepts.

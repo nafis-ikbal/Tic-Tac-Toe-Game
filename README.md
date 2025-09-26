@@ -3,6 +3,10 @@
 
 A simple Tic-Tac-Toe game built with React and Vite.
 
+## 🌐 Live Preview
+
+Check out the live demo: [Tic-Tac-Toe Game](https://tic-tac-toe-game-nfr.vercel.app/)
+
 ## Game Logic
 
 - The game board is a 3x3 grid.

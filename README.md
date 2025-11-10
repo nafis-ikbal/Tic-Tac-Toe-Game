@@ -15,6 +15,10 @@ Check out the live demo: [Tic-Tac-Toe Game](https://tic-tac-toe-game-nfr.vercel.
 - A player wins by placing three of their marks in a horizontal, vertical, or diagonal row.
 - If all squares are filled and no player has won, the game ends in a draw.
 
+### 💡Important Note
+This project is **not fully responsive yet**.  
+For the best experience, please view it on a **desktop browser**.
+
 ### Instructions
 
 For better understanding of this project, follow the official <a href="https://react.dev/learn/tutorial-tic-tac-toe" target="_blank" rel="noopener noreferrer">React documentation</a> for best practices.
